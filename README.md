@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, Data Analysis
 - 🌱 I’m currently learning Data Science at UC Berkeley
 - 💞️ I’m looking to collaborate on any cs or ds project
-- 📫 How to reach me: lolyantian@gmail.com
+- 📫 How to reach me: yantianzuo@berkeley.edu
 
 <!---
 andyyantianZuo/andyyantianZuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
